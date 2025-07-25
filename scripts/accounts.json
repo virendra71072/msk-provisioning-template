@@ -1,0 +1,10 @@
+[
+    {
+        "account": "sample-account-dev",
+        "account_id":<<account_id>>,
+        "env":"dev",
+        "msk_regions":"",
+        "primary_region": "eu-central-1",
+        "secondary_region": ""
+    }
+]
